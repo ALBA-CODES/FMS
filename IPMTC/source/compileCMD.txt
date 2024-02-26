@@ -1,0 +1,1 @@
+g++ mainIPMTC.cpp ./src/*.cpp -std=c++20 -Wshadow -Wall  -o mainIPMTC  -O3 -Wno-unused-result -lpthread

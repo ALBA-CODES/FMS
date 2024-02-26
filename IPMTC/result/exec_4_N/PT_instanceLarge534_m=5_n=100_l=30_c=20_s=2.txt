@@ -1,0 +1,13 @@
+Instance filename: ./instances/100jobs/instanceLarge534_m=5_n=100_l=30_c=20_s=2.PMTC
+Min temperature: 0.1
+Max temperature: 0.5
+Melhor Solução: 628
+Temp div: 16
+MCL: 400
+PTL: 75000
+Elapsed time was: 214420
+Maquina 1 : 35 16 95 12 10 75 22 57 94 11 7 3 40 28 43 88 66 93 56 80 31 29 
+Maquina 2 : 74 92 99 96 73 60 78 64 15 86 69 82 49 51 34 5 25 32 
+Maquina 3 : 50 58 81 89 46 24 27 85 23 19 76 54 18 90 26 21 72 14 33 20 
+Maquina 4 : 37 68 98 36 4 13 83 63 41 1 30 0 70 97 9 87 45 77 91 
+Maquina 5 : 61 55 62 67 42 71 84 65 39 48 47 17 6 44 8 79 52 38 59 2 53 

@@ -1,0 +1,1 @@
+g++ mainRCPMS.cpp ./src/*.cpp -std=c++20 -Wshadow -Wall  -o mainRCPMS  -O3 -Wno-unused-result -lpthread

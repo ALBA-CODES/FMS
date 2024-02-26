@@ -1,0 +1,8 @@
+Instance filename: ./instancia/Tabela4/T4_F2004.txt
+Min temperature: 0.2
+Max temperature: 1
+Melhor Solução: 188
+Temp div: 16
+MCL: 400
+PTL: 100000
+Elapsed time was 1702241 (ms)

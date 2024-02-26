@@ -1,0 +1,15 @@
+Instance filename: ./instances/RCPMSII/RCPMS_Instance_12_m=3_n=50_t=7
+Min temperature: 0.1
+Max temperature: 0.5
+Melhor Solução: 516
+Temp div: 20
+MCL: 500
+PTL: 400
+Elapsed time was: 8595
+Maquina 1 : 33 4 7 11 25 37 40 46 41 16 34 5 29 35 44 21 23 13 
+Maquina 2 : 26 49 18 24 1 0 47 36 48 45 15 31 9 43 19 28 
+Maquina 3 : 32 12 3 42 27 20 10 38 14 30 39 22 8 6 2 17 
+Formato de validacao do resultado: 
+0 33 0 4 0 7 0 11 0 25 0 37 0 40 0 46 0 41 0 16 0 34 0 5 0 29 0 35 0 44 0 21 0 23 0 13 
+1 26 1 49 1 18 1 24 1 1 1 0 1 47 1 36 1 48 1 45 1 15 1 31 1 9 1 43 1 19 1 28 
+2 32 2 12 2 3 2 42 2 27 2 20 2 10 2 38 2 14 2 30 2 39 2 22 2 8 2 6 2 2 2 17 

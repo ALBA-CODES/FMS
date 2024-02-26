@@ -1,0 +1,15 @@
+Instance filename: ./instances/25jobs/instance966_m=3_n=25_l=15_c=10_s=2.PMTC
+Min temperature: 0.1
+Max temperature: 0.5
+Melhor Solução: 271
+Temp div: 16
+MCL: 400
+PTL: 75000
+Elapsed time was: 118028
+Maquina 1 : 9 16 8 3 15 20 12 18 14 17 
+Maquina 2 : 10 19 7 4 6 11 23 
+Maquina 3 : 24 21 2 22 1 0 13 5 
+Formato de validacao do resultado: 
+0 9 0 16 0 8 0 3 0 15 0 20 0 12 0 18 0 14 0 17 
+1 10 1 19 1 7 1 4 1 6 1 11 1 23 
+2 24 2 21 2 2 2 22 2 1 2 0 2 13 2 5 

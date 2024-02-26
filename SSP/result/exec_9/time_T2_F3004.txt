@@ -1,0 +1,8 @@
+Instance filename: ./instancia/Tabela2/T2_F3004.txt
+Min temperature: 0.2
+Max temperature: 1
+Melhor Solução: 440
+Temp div: 16
+MCL: 400
+PTL: 100000
+Elapsed time was 1737370 (ms)

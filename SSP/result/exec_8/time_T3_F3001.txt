@@ -1,0 +1,8 @@
+Instance filename: ./instancia/Tabela3/T3_F3001.txt
+Min temperature: 0.2
+Max temperature: 1
+Melhor Solução: 371
+Temp div: 16
+MCL: 400
+PTL: 100000
+Elapsed time was 1843846 (ms)
